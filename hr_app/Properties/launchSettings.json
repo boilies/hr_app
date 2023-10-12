@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "hr_app": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
